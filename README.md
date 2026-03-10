@@ -12,105 +12,123 @@
 
 ---
 
-### 🔵 // SYSTEM DIAGNOSTICS: ELITE OPERATOR
+### 🛰️ // Operational Status: ONLINE
 
-> **"From coaching first-time defenders to breaking my own code for fun, I live at both ends of cybersecurity."**
-
-- 🚀 **Founder @Cyberster**: Mentoring professionals with a verified **83% success rate** in (ISC)² CC.
-- 👨‍💻 **Tech Lead @Tech Hierarchy**: Architecting and securing enterprise platforms via hardened SDLC.
-- 🛡️ **Red Team Researcher**: Specialized in advanced web exploits (SVG XSS, PDF CSRF, Reverse Tabnabbing).
-- 🏆 **Cisco EMEA Cyber Cup 2026**: Shortlisted Candidate for Phase 1 (Infrastructure & Network Security).
-- 🎓 **Academic Path**: Pursuing AAS in IT (JCCC, USA) and BSCS (Virtual University, Pakistan).
-
----
-
-### 🛠️ // THE TECHNICAL ARSENAL (FACTUAL STACK)
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><strong>Offensive Ops</strong></td>
-    <td align="center" width="25%"><strong>Defensive & GRC</strong></td>
-    <td align="center" width="25%"><strong>AI & Cloud</strong></td>
-    <td align="center" width="25%"><strong>Scripting</strong></td>
-  </tr>
-  <tr>
-    <td>
-      - Kali Linux<br>
-      - Burp Suite<br>
-      - Nessus Professional<br>
-      - Metasploit Framework<br>
-      - VAPT Methodologies
-    </td>
-    <td>
-      - ISO 27001 Lead Audit<br>
-      - ISMS Compliance<br>
-      - Threat Modeling<br>
-      - Phishing Prevention<br>
-      - OSINT Investigation
-    </td>
-    <td>
-      - Google Gemini API<br>
-      - Generative AI Ops<br>
-      - Google Cloud Security<br>
-      - AI Agents & Automation
-    </td>
-    <td>
-      - Python (Security)<br>
-      - Bash Scripting<br>
-      - HTML/CSS<br>
-      - JavaScript
-    </td>
-  </tr>
+<table width="100%" style="background-color: transparent;">
+<tr>
+<td width="60%" style="border: none;">
+  <p>From coaching first-time defenders to breaking my own code for fun, I live at both ends of cybersecurity. I balance the thrill of exploitation with a structured approach to risk management.</p>
+  <ul>
+    <li>🚀 **Mission Control**: Founder at **Cyberster**, mentoring students for (ISC)² CC Certification (verified 83% success rate).</li>
+    <li>👨‍💻 **Tech Ops**: Tech Lead at **Tech Hierarchy**, architecting hardened web platforms via security-first SDLC.</li>
+    <li>🛡️ **Offensive Research**: Specialized in modern web exploits (SVG XSS, PDF CSRF, Reverse Tabnabbing).</li>
+    <li>🏆 **Cisco EMEA Cyber Cup 2026**: Shortlisted Candidate for Phase 1 (Infrastructure Security).</li>
+    <li>🎓 **Education**: Pursuing AAS in IT Networking & Cybersecurity (USA Designation CAE-CD) and BSCS.</li>
+  </ul>
+</td>
+<td width="40%" style="border: none; text-align: center; vertical-align: middle;">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=200&section=header&text=RED%20TEAM%20+%20GRC&fontSize=30&fontAlignY=50" style="border: 2px solid #00A3FF; border-radius: 10px;"/>
+</td>
+</tr>
 </table>
 
 ---
 
-### 📂 // CLASSIFIED OPERATIONS (PROJECTS)
-*Internal repository data summary - Links Restricted*
+### 🛠️ // Tech Arsenal & Capabilities
 
-* 🛡️ **NEURAL WARDEN**: AI-powered security suite engineered for real-time threat neutralization.
-* 🌐 **TECHIERARCHY.ORG**: Architected and hardened official infrastructure with integrated security controls.
-* 🧠 **CYBERSTER AI**: Development of an intelligent assistant for offensive security and VAPT workflows.
-* ✍️ **FIVERR TECH OPTIMIZATION**: Global consultant for tech portfolio and security-minded resume engineering.
-
----
-
-### 🏆 // VERIFIED CREDENTIALS
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ISO_27001_Lead_Auditor-Verified-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/CRPO-Ransomware_Protection-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/HarvardX-CS50_Cybersecurity-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/CompTIA_PenTest+-Candidate-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/CCEP-Cyber_Educator_Pro-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/ISC2-Candidate-blue?style=flat-square" />
+<p align="center">
+  <img src="https://img.shields.io/badge/RED_TEAM_OPS-AUTHORIZED-blue?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEFENSIVE_OPS-AUTHORIZED-blue?style=for-the-badge&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/GRC_AUDITING-AUTHORIZED-blue?style=for-the-badge" />
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-Kali_Linux-0D1117?logo=kali-linux&logoColor=00A3FF&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Burp_Suite-0D1117?logo=burp-suite&logoColor=00A3FF&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Metasploit-0D1117?logo=metasploit&logoColor=00A3FF&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Nmap-0D1117?logo=nmap&logoColor=00A3FF&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Nessus-0D1117?logo=tenable&logoColor=00A3FF&style=flat-square" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-ISO_27001_Audit-0D1117?logoColor=00A3FF&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Threat_Modeling-0D1117?logoColor=00A3FF&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Phishing_Defense-0D1117?logoColor=00A3FF&style=flat-square" />
+  <img src="https://img.shields.io/badge/-OSINT-0D1117?logoColor=00A3FF&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Wireshark-0D1117?logo=wireshark&logoColor=00A3FF&style=flat-square" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Google_Cloud_Security-0D1117?logo=google-cloud&logoColor=00A3FF&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Gemini_AI_Ops-0D1117?logo=google-gemini&logoColor=00A3FF&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Python-0D1117?logo=python&logoColor=00A3FF&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Bash-0D1117?logo=gnu-bash&logoColor=00A3FF&style=flat-square" />
+</div>
+
 ---
 
-### 📊 // OPERATIONAL TELEMETRY
+### 📂 // Operations Log: Classified Projects
+
+<table width="100%" style="background-color: transparent;">
+<tr>
+<td style="border: none; padding: 10px;">
+  <p><strong>[OP-01] NEURAL WARDEN</strong></p>
+  <p><em>> An AI-powered cybersecurity suite engineered for real-time threat neutralization. Submitted to Google/Gemini Hackathon.</em></p>
+</td>
+<td style="border: none; padding: 10px;">
+  <p><strong>[OP-02] TECHIERARCHY ARCH</strong></p>
+  <p><em>> Architecture and security hardening of the official platform with integrated automated vulnerability mitigation.</em></p>
+</td>
+</tr>
+<tr>
+<td style="border: none; padding: 10px;">
+  <p><strong>[OP-03] CYBERSTER AI ASSISTANT</strong></p>
+  <p><em>> Development of an intelligent Large Language Model framework optimized for streamlining offensive security and VAPT workflows.</em></p>
+</td>
+<td style="border: none; padding: 10px;">
+  <p><strong>[OP-04] TECH PORTFOLIO CONSULT</strong></p>
+  <p><em>> Global consultancy for technical portfolio engineering and security-minded resume optimization.</em></p>
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 // Security Clearance: Verified Credentials
+
+| Credential | Issued By | Scope |
+| :--- | :--- | :--- |
+| **ISO/IEC 27001:2022 Lead Auditor** | Mastermind | ISMS Governance & Auditing |
+| **HarvardX CS50 Cybersecurity** | Harvard University | Foundation Security Principles |
+| **CRPO - Ransomware Protection** | EU Cyber Academy | Incident Response & Protection |
+| **CCEP - Cyber Educator Pro** | Red Team Leaders | Education & Training Course Dev |
+| **Cisco Cyber Cup Phase 1** | Cisco EMEA | Infrastructure Security [Shortlisted Candidate] |
+| **CompTIA PenTest+** | CompTIA | Ethical Hacking Methodologies [Candidate] |
+| **ISC2 Candidate** | ISC2 | Entry Level Cyber Security [(ISC)² CC] |
+
+---
+
+### 📊 // Operational Telemetry
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyb3rster&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00A3FF&icon_color=00A3FF&text_color=ffffff" alt="Main Stats" height="200" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyb3rster&theme=tokyonight&hide_border=true&area=true&color=00A3FF" width="100%" />
 </p>
 
 ---
 
-### 🤝 // ESTABLISH SECURE CONNECTION
+### 🤝 // Establish Secure handshake
 <p align="center">
-<a href="https://www.linkedin.com/in/umerimran-cs"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:cybersec716@gmail.com"><img src="https://img.shields.io/badge/SECURE_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/umerimran-cs"><img src="https://img.shields.io/badge/LINKEDIN-00A3FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:cybersec716@gmail.com"><img src="https://img.shields.io/badge/SECURE_MAIL-00A3FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Security_Status-Authorized-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mindset-Continuous_Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security_Status-AUTHORIZED-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mindset-CONTINUOUS_LEARNING-blue?style=flat-square" />
+  <img src="https://forthebadge.com/images/badges/built-with-science.svg" />
 </p>
 
 <p align="center">
-  <i>"I don't just break systems. I architect solutions."</i>
+  <i>root@cyb3rster:~$ disconnect.</i>
 </p>
