@@ -108,7 +108,7 @@
 ### 🐍 // NETWORK FLOW (CONTRIBUTIONS)
 
 <p align="center">
-  <img src="https://github.com/cyb3rster/cyb3rster/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/cyb3rster/cyb3rster/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
