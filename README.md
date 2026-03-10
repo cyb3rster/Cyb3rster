@@ -1,22 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=250&section=header&text=UMER%20IMRAN&fontSize=80&animation=fadeIn&fontAlignY=40&desc=CYBERSECURITY%20OPERATIONS%20|%20FOUNDER%20@CYBERSTER&descAlignY=60&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A3FF&height=250&section=header&text=UMER%20IMRAN&fontSize=80&animation=fadeIn&fontAlignY=40&desc=CYBERSECURITY%20OPERATIONS%20|%20FOUNDER%20@CYBERSTER&descAlignY=60&descSize=20" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=root@cyb3rster:~$+whoami;Access+Granted:+Red+Teaming+Mode;Founder+@Cyberster;Microsoft+Student+Ambassador;Shortlisted:+Cisco+EMEA+Cyber+Cup+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A3FF&center=true&vCenter=true&width=600&lines=root@cyb3rster:~$+whoami;Access+Granted:+Red+Teaming+Mode;Founder+@Cyberster;Microsoft+Student+Ambassador;Shortlisted:+Cisco+EMEA+Cyber+Cup+2026" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cyb3rster&label=THREAT%20LEVEL%20MONITOR&color=00A3FF&style=flat-square" alt="Views" />
 </p>
 
 ---
 
-### 🟢 // SYSTEM DIAGNOSTICS: PROFESSIONAL OVERVIEW
+### 🔵 // SYSTEM DIAGNOSTICS: ELITE OPERATOR
 
 > **"From coaching first-time defenders to breaking my own code for fun, I live at both ends of cybersecurity."**
 
-- 🚀 **Founder @Cyberster**: Mentoring students for (ISC)² CC with an 83% success rate.
-- 👨‍💻 **Tech Lead @Tech Hierarchy**: Architecting hardened web platforms via security-first SDLC.
-- 🛡️ **Red Team Researcher**: Specialized in SVG-based XSS, PDF CSRF, and Reverse Tabnabbing.
-- 🏆 **Cisco EMEA Cyber Cup 2026**: Shortlisted for Phase 1 (Wi-Fi 6 & Infrastructure Security).
-- 🎓 **Dual Education**: AAS in IT (JCCC, USA) & BS in Computer Science (Virtual University, PK).
+- 🚀 **Founder @Cyberster**: Mentoring professionals with a verified **83% success rate** in (ISC)² CC.
+- 👨‍💻 **Tech Lead @Tech Hierarchy**: Architecting and securing enterprise platforms via hardened SDLC.
+- 🛡️ **Red Team Researcher**: Specialized in advanced web exploits (SVG XSS, PDF CSRF, Reverse Tabnabbing).
+- 🏆 **Cisco EMEA Cyber Cup 2026**: Shortlisted Candidate for Phase 1 (Infrastructure & Network Security).
+- 🎓 **Academic Path**: Pursuing AAS in IT (JCCC, USA) and BSCS (Virtual University, Pakistan).
 
 ---
 
@@ -33,25 +37,25 @@
     <td>
       - Kali Linux<br>
       - Burp Suite<br>
-      - Nessus<br>
-      - Metasploit<br>
-      - VAPT
+      - Nessus Professional<br>
+      - Metasploit Framework<br>
+      - VAPT Methodologies
     </td>
     <td>
-      - ISO 27001 Audit<br>
-      - ISMS Audits<br>
+      - ISO 27001 Lead Audit<br>
+      - ISMS Compliance<br>
       - Threat Modeling<br>
-      - Phishing Defense<br>
-      - OSINT
+      - Phishing Prevention<br>
+      - OSINT Investigation
     </td>
     <td>
       - Google Gemini API<br>
-      - Generative AI<br>
-      - Google Cloud Ops<br>
-      - AI Automation
+      - Generative AI Ops<br>
+      - Google Cloud Security<br>
+      - AI Agents & Automation
     </td>
     <td>
-      - Python<br>
+      - Python (Security)<br>
       - Bash Scripting<br>
       - HTML/CSS<br>
       - JavaScript
@@ -61,25 +65,25 @@
 
 ---
 
-### 📂 // INTERNAL OPERATIONS (PROJECTS)
-*Project details based on verified LinkedIn history:*
+### 📂 // CLASSIFIED OPERATIONS (PROJECTS)
+*Internal repository data summary - Links Restricted*
 
-* 🛡️ **NEURAL WARDEN**: AI-powered cybersecurity suite built for Google/Gemini Hackathon.
-* 🌐 **TECHIERARCHY.ORG**: Architected and secured official platform with integrated security controls.
-* 🧠 **CYBERSTER AI**: Development of an intelligent assistant for offensive security workflows.
-* ✍️ **FIVERR TECH OPTIMIZATION**: Optimized technical portfolios and CVs for security professionals globally.
+* 🛡️ **NEURAL WARDEN**: AI-powered security suite engineered for real-time threat neutralization.
+* 🌐 **TECHIERARCHY.ORG**: Architected and hardened official infrastructure with integrated security controls.
+* 🧠 **CYBERSTER AI**: Development of an intelligent assistant for offensive security and VAPT workflows.
+* ✍️ **FIVERR TECH OPTIMIZATION**: Global consultant for tech portfolio and security-minded resume engineering.
 
 ---
 
-### 🏆 // VERIFIED CREDENTIALS & CERTIFICATIONS
+### 🏆 // VERIFIED CREDENTIALS
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ISO_27001_Lead_Auditor-Verified-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/CRPO-Ransomware_Protection-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/HarvardX-CS50_Cybersecurity-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/CompTIA_PenTest+-Candidate-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/ISO_27001_Lead_Auditor-Verified-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/CRPO-Ransomware_Protection-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/HarvardX-CS50_Cybersecurity-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/CompTIA_PenTest+-Candidate-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/CCEP-Cyber_Educator_Pro-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/ISC2-Candidate-gold?style=flat-square" />
+  <img src="https://img.shields.io/badge/ISC2-Candidate-blue?style=flat-square" />
 </p>
 
 ---
@@ -87,11 +91,11 @@
 ### 📊 // OPERATIONAL TELEMETRY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyb3rster&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Main Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyb3rster&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00A3FF&icon_color=00A3FF&text_color=ffffff" alt="Main Stats" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyb3rster&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyb3rster&theme=tokyonight&hide_border=true&area=true&color=00A3FF" width="100%" />
 </p>
 
 ---
@@ -103,10 +107,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Security_Status-Authorized-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security_Status-Authorized-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mindset-Continuous_Learning-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <i>"I live at both ends of cybersecurity: Breaking code for fun, and building it for resilience."</i>
+  <i>"I don't just break systems. I architect solutions."</i>
 </p>
