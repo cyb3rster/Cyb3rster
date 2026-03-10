@@ -14,13 +14,49 @@
 
 ### 🛡️ // SYSTEM OPERATOR INFO (WHOAMI)
 
-> **"I live at both ends of cybersecurity: Breaking code for fun, and building it for resilience."**
+> **"From coaching first-time defenders to breaking my own code for fun, I live at both ends of cybersecurity."**
 
 - ⚡ **FOUNDER @CYBERSTER**: Mentoring professionals for (ISC)² CC with a verified **83% success rate**.
 - 🛡️ **TECH LEAD @TECH HIERARCHY**: Architecting and securing enterprise platforms via hardened SDLC.
 - 🎯 **OFFENSIVE RESEARCH**: Specialized in **SVG-based XSS**, **PDF CSRF**, and **Reverse Tabnabbing**.
 - 🏆 **HIGH-VALUE TARGET**: Shortlisted Candidate for **Cisco EMEA Cyber Cup 2026** (Infrastructure Security).
-- 🎓 **ACADEMIC PATH**: AAS in IT (JCCC, USA) & BS in Computer Science (Virtual University, Pakistan).
+- 🎓 **ACADEMIC PATH**: Pursuing AAS in IT (JCCC, USA) & BS in Computer Science (Virtual University, Pakistan).
+
+---
+
+### 🏆 // VERIFIED CREDENTIALS & CLEARANCE
+
+**[ CORE GOVERNANCE & DEFENSE ]**
+<p align="left">
+  <img src="https://img.shields.io/badge/ISO_27001_LEAD_AUDITOR-00A3FF?style=flat-square&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRPO_RANSOMWARE_OFFICER-00A3FF?style=flat-square&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSCSO_SME_SECURITY-00A3FF?style=flat-square&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO_27001_ASSOCIATE-00A3FF?style=flat-square&logo=files&logoColor=white" />
+</p>
+
+**[ TECHNICAL & OFFENSIVE ]**
+<p align="left">
+  <img src="https://img.shields.io/badge/HARVARD_CS50_CYBERSECURITY-00A3FF?style=flat-square&logo=harvard&logoColor=white" />
+  <img src="https://img.shields.io/badge/CPPS_PHISHING_PREVENTION-00A3FF?style=flat-square&logo=mail.ru&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSINT_INVESTIGATION-00A3FF?style=flat-square&logo=search&logoColor=white" />
+  <img src="https://img.shields.io/badge/WEB_APP_HACKING-00A3FF?style=flat-square&logo=bugcrowd&logoColor=white" />
+</p>
+
+**[ CLOUD, AI & SPECIALIZED ]**
+<p align="left">
+  <img src="https://img.shields.io/badge/GOOGLE_CLOUD_SECURITY-00A3FF?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GOOGLE_AI_AGENTS-00A3FF?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/CISCO_MODERN_AI-00A3FF?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/ICS_SCADA_SECURITY-00A3FF?style=flat-square&logo=lightning&logoColor=white" />
+</p>
+
+**[ ACADEMIA & EDUCATION ]**
+<p align="left">
+  <img src="https://img.shields.io/badge/CCEP_CYBER_EDUCATOR-00A3FF?style=flat-square&logo=expertsexchange&logoColor=white" />
+  <img src="https://img.shields.io/badge/PNY_ADVANCED_CYBER_SECURITY-00A3FF?style=flat-square&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISC2_CANDIDATE-00A3FF?style=flat-square&logo=isc2&logoColor=white" />
+  <img src="https://img.shields.io/badge/CISCO_CYBERSECURITY-00A3FF?style=flat-square&logo=cisco&logoColor=white" />
+</p>
 
 ---
 
@@ -53,18 +89,6 @@
     - *Large Language Model (LLM) framework optimized for offensive security and VAPT workflows.*
 - 📋 **GRC AUTOMATION SUITE**
     - *Framework designed to streamline ISO 27001 compliance and internal ISMS auditing processes.*
-
----
-
-### 🏆 // VERIFIED CREDENTIALS
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ISO_27001_Lead_Auditor-00A3FF?style=flat-square&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRPO_Ransomware_Protection-00A3FF?style=flat-square&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/HarvardX_CS50_Cybersecurity-00A3FF?style=flat-square&logo=harvard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_Cyber_Cup_Shortlisted-00A3FF?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA_PenTest+_Candidate-00A3FF?style=flat-square&logo=comptia&logoColor=white" />
-</p>
 
 ---
 
